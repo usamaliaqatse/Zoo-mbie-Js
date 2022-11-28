@@ -4,7 +4,7 @@
 
 ```bash
 # setup .env
-copy .env.example .env
+$ copy .env.example .env
 
 # install dependencies
 $ npm install
